@@ -1,0 +1,22 @@
+id: 40d02d86e9aa4d2e890a9ff40e77c9ed
+annotation_type: index
+revision: '00001'
+annotations:
+  dd011f96546c43cc8286bbcafed82c0e:
+    work_id: WC7FB2D5D
+    span:
+      vol: Colophon
+      start: 0
+      end: 11
+  de7c9f55f47b4a70abd357f3c88a4265:
+    work_id: W4905E793
+    span:
+      vol: Preface
+      start: 0
+      end: 1648
+  7fd20d8fac9b4359984c0b4df61bbb94:
+    work_id: W74F837CC
+    span:
+      vol: Title
+      start: 0
+      end: 8
